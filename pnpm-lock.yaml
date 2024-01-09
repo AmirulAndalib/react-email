@@ -2892,6 +2892,15 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
+  /@react-email/tailwind@0.0.14-canary.0(react@18.2.0):
+    resolution: {integrity: sha512-jvuE8ivUATckyfSXXmYDC+LM1l9OVx//Xar/l+/Tx1swTHo0cJqXrFgRx8GdOUT1j38PqtqnwumpW3fgCAItdg==}
+    engines: {node: '>=18.0.0'}
+    peerDependencies:
+      react: 18.2.0
+    dependencies:
+      react: 18.2.0
+    dev: false
+
   /@rollup/pluginutils@5.1.0:
     resolution: {integrity: sha512-XTIWOPPcpvyKI6L1NHo0lFlCyznUEyPmPY1mc3KpPVDYulHSTvyeLNVW00QTLIAFNhR3kYnJTQHeGqU4M3n09g==}
     engines: {node: '>=14.0.0'}
