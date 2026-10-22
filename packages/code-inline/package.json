@@ -42,8 +42,8 @@
     "@react-email/render": "workspace:*",
     "eslint-config-custom": "workspace:*",
     "tsconfig": "workspace:*",
-    "tsup": "7.2.0",
+    "tsup": "9.0.0",
     "typescript": "5.1.6",
-    "vitest": "1.1.0"
+    "vitest": "4.1.11"
   }
 }
