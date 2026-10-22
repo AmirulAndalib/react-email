@@ -57,7 +57,7 @@
     "jsdom": "23.0.1",
     "tsconfig": "workspace:*",
     "typescript": "5.1.6",
-    "vitest": "1.1.2"
+    "vitest": "4.1.11"
   },
   "publishConfig": {
     "access": "public"
